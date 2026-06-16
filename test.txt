@@ -1,6 +1,6 @@
 {
   "prefix": "d01d",
-  "maxNotes": 25,
+  "maxNotes": 24,
   "maxNoteOn": 60,
   "singleConn": true
 }
