@@ -1,5 +1,5 @@
 {
-  "prefix": "8783b4",
+  "prefix": "cbfd3f",
   "maxNotes": 24,
   "maxNoteOn": 60,
   "singleConn": true
