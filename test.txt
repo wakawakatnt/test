@@ -1,5 +1,5 @@
 {
-  "prefix": "729d0",
+  "prefix": "b",
   "maxNotes": 24,
   "maxNoteOn": 60,
   "singleConn": true
