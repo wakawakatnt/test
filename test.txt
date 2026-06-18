@@ -2,5 +2,5 @@
   "prefix": "0f130e58",
   "maxNotes": 29,
   "maxNoteOn": 60,
-  "singleConn": false
+  "singleConn": true
 }
