@@ -1,6 +1,6 @@
 {
-  "prefix": "1e0331d2",
-  "maxNotes": 27,
+  "prefix": "b4b07994",
+  "maxNotes": 29,
   "maxNoteOn": 60,
   "singleConn": true
 }
